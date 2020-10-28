@@ -14,7 +14,6 @@ export default {
             sortByName : () => axios.get(url + "SortByName"),
             sortByNumber: () => axios.get(url + "SortByNumber"),
             sortByEmail : () => axios.get(url + "SortByEmail"),
-            //adfa
 
         }
     }
